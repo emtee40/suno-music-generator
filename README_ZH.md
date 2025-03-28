@@ -4,7 +4,7 @@
 
 # Suno Music Generator
 
-[English](./README_EN.md) | [简体中文](./README.md)
+[English](./README.md) | [简体中文](./README_ZH.md)
 
 这是一个基于 NextJS 开发的非官方 [suno.ai](https://www.suno.ai) 音乐生成网站。可以通过用户输入的 prompt 在一分钟左右的时间生成你想要的歌曲。
 
